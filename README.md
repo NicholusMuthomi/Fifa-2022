@@ -1,4 +1,4 @@
-# FIFA 22 Player Analysis
+# FIFA 2022 Player Analysis
 
 ## Overview
 
